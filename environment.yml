@@ -1,0 +1,9 @@
+name: local-projections
+
+channels:
+- conda-forge
+
+dependencies:
+  - python=3.6
+  - shapely
+  - fiona
